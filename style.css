@@ -1,5 +1,7 @@
 body {
     background-color: #302559;
+    background-image: linear-gradient(to bottom right,#302559, #6941BF);
+    height: 100vh;
 }
 
 .banner {
