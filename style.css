@@ -1,13 +1,15 @@
 body {
-    background-color: #302559;
+    background-color: #231F20;
+
+    height: 100vh;
 }
 
 .banner {
 
     margin: 0 auto; 
     display: block;
-    width: 380px;
-    height: 210px;
+    width: 300px;
+    height: 380px;
 
 }
 
@@ -34,7 +36,7 @@ header {
     text-align: center;
     padding: 5px;
     display: block;
-    width: 200px;
+    width: 300px;
    
 }
 
